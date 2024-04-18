@@ -11,7 +11,7 @@ Languages and Tools:
 
 <img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/42ccabdd-1da1-4e1d-92ae-24959767f841" style="width:30px;height:30px;">
 
-<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/91bc928d-0e44-4e0a-a8b3-edcfad81451b" style="width:30px;height:30px;">
+<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/91bc928d-0e44-4e0a-a8b3-edcfad81451b" style="width:50px;height:30px;">
 
 
 </p>
