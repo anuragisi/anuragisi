@@ -7,11 +7,11 @@ Having successfully completed my graduation in <b>Computer Science and Engineeri
 <br>
 <p>
 Languages and Tools:
-<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/0f6ec5ea-cf91-48a0-9fe6-8de852cd0797" style="margin:2px 2px 2px 2px;width:30px;height:30px;">
+<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/0f6ec5ea-cf91-48a0-9fe6-8de852cd0797" style="margin:5px 5px 5px 5px;width:30px;height:30px;">
 
-<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/42ccabdd-1da1-4e1d-92ae-24959767f841" style="margin:2px 2px 2px 2px;width:30px;height:30px;">
+<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/42ccabdd-1da1-4e1d-92ae-24959767f841" style="margin:5px 5px 5px 5px;width:30px;height:30px;">
 
-<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/91bc928d-0e44-4e0a-a8b3-edcfad81451b" style="margin:2px 2px 2px 2px;width:50px;height:30px;">
+<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/91bc928d-0e44-4e0a-a8b3-edcfad81451b" style="margin:5px 5px 5px 5px;width:50px;height:30px;">
 
 
 </p>
