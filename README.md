@@ -1,4 +1,5 @@
 ### Hi everyone 👋! My name is Anurag Prasad
+<hr>
 <br>
 🌱 I’m currently learning pursuing Post Graduate Diploma in Statistical Methods and Analytics (PGDSMA) from Indian Statistical Institute, North-East Centre (ISI, NEC)
 <!--
