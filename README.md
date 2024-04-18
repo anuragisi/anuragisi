@@ -15,6 +15,8 @@ Languages and Tools:
 
 <img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/58948fe2-f155-4afb-9906-fa87f0fbaad4" style="margin:5px 5px 5px 5px;width:100px;height:50px;">
 
+<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/02c6720e-0c3f-4d2e-b411-3293c3ca63d1" style="margin:5px 5px 5px 5px;width:50px;height:30px;">
+
 </p>
 <h2>Open to positions Data Analyst | Data Science | Business Analyst | ML and related</h2>
 <!--
