@@ -1,6 +1,8 @@
 ### Hi everyone 👋! My name is Anurag Prasad
 <hr>
-<p>🌱 I’m currently learning pursuing Post Graduate Diploma in Statistical Methods and Analytics (PGDSMA) from Indian Statistical Institute, North-East Centre (ISI, NEC), had bachelors in Computer Science & Engineering (CSE).
+<p>🌱Currently, I am enthusiastically pursuing a Post-Graduate Diploma in Statistical Methods and Analytics (PGDSMA) at the esteemed Indian Statistical Institute, North-East Centre (Tezpur) (ISI, NEC). My deep interest in <b>Data Science</b> has led me to embark on this journey, where I am immersing myself in the intricacies of <b>statistical analysis, data visualization, and predictive modeling</b>.
+
+Having successfully completed my graduation in <b>Computer Science and Engineering (CSE)</b>, I developed a strong foundation in programming, algorithms, and problem-solving. Further enhancing my skill set, I also attained a PGDM in Development Management, which provided me with a holistic understanding of managing projects and teams effectively.
 </p>
 <br>
 <h2>Open to positions Data Analyst | Data Science | Business Analyst | ML and related</h2>
