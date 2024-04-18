@@ -1,10 +1,15 @@
-### Hi everyone 👋! My name is Anurag Prasad
+### Hi 👋! My name is Anurag Prasad
 <hr>
-<p>🌱Currently, I am enthusiastically pursuing a <b>Post-Graduate Diploma in Statistical Methods and Analytics (PGDSMA) at the esteemed Indian Statistical Institute, North-East Centre (Tezpur) (ISI, NEC)</b>. My deep interest in <b>Data Science</b> has led me to embark on this journey, where I am immersing myself in the intricacies of <b>statistical analysis, data visualization, and predictive modeling</b>.
+<p>🌱Currently, I am enthusiastically pursuing a <b>Post-Graduate Diploma in Statistical Methods and Analytics (PGDSMA) at the esteemed Indian Statistical Institute, North-East Centre (Tezpur) (ISI, NEC)</b>. My deep interest in <b>Data Science</b> has led me to embark on this journey, where I am immersing myself in the intricacies of <b>statistical analysis, data visualization, Machine Learning/AI, and predictive modeling</b>.
 
 Having successfully completed my graduation in <b>Computer Science and Engineering (CSE)</b>, I developed a strong foundation in programming, algorithms, and problem-solving. Further enhancing my skill set, I also attained a PGDM in Development Management, which provided me with a holistic understanding of managing projects and teams effectively.
 </p>
 <br>
+<p>
+Languages and Tools:
+<img src="![image](https://github.com/anuragprasad95/anuragprasad95/assets/3609255/0f6ec5ea-cf91-48a0-9fe6-8de852cd0797)
+"></img>
+</p>
 <h2>Open to positions Data Analyst | Data Science | Business Analyst | ML and related</h2>
 <!--
 **anuragprasad95/anuragprasad95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
