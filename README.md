@@ -4,7 +4,7 @@
 </p>
 <br>
 
-<h1>Open to positions Data Analyst | Data Science | Business Analyst | ML and related</h2>
+<h2>Open to positions Data Analyst | Data Science | Business Analyst | ML and related</h2>
 <!--
 **anuragprasad95/anuragprasad95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
