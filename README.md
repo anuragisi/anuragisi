@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi everyone 👋! My name is Anurag Prasad
+<br>
+🌱 I’m currently learning pursuing Post Graduate Diploma in Statistical Methods and Analytics (PGDSMA) from Indian Statistical Institute, North-East Centre (ISI, NEC)
 <!--
 **anuragprasad95/anuragprasad95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
