@@ -7,7 +7,7 @@ Having successfully completed my graduation in <b>Computer Science and Engineeri
 <br>
 <p>
 Languages and Tools:
-<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/0f6ec5ea-cf91-48a0-9fe6-8de852cd0797" style="width:500px;height:600px;">
+<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/0f6ec5ea-cf91-48a0-9fe6-8de852cd0797" style="width:50px;height:50px;">
 </p>
 <h2>Open to positions Data Analyst | Data Science | Business Analyst | ML and related</h2>
 <!--
