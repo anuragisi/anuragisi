@@ -20,7 +20,7 @@ Languages and Tools:
 
 <img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/02c6720e-0c3f-4d2e-b411-3293c3ca63d1" style="margin:5px 5px 5px 5px;width:50px;height:30px;">
 
-<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/3721af45-314f-46b0-94ed-63c2f90d4a45" style="margin:5px 5px 5px 5px;width:150px;height:60px;">
+<img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/3721af45-314f-46b0-94ed-63c2f90d4a45" style="margin:5px 5px 5px 5px;width:150px;height:40px;">
 
 <img src="https://github.com/anuragprasad95/anuragprasad95/assets/3609255/ded8e160-c1d4-4354-aa07-75dcdc697f50" style="margin:5px 5px 5px 5px;width:60px;height:40px;">
 
