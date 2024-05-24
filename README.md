@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/anuragprasad95/anuragprasad95/assets/3609255/2e306d7b-0aba-4840-816c-60408be3d15b)![Header](![Uploading github-header-image.png…])
+![github-header-image](https://github.com/anuragprasad95/anuragprasad95/assets/3609255/2e306d7b-0aba-4840-816c-60408be3d15b)
 ### Hi 👋! My name is Anurag Prasad
 <hr>
 <p>🌱Currently, I am enthusiastically pursuing a <b>Post-Graduate Diploma in Statistical Methods and Analytics (PGDSMA) at the esteemed Indian Statistical Institute, North-East Centre (Tezpur) (ISI, NEC)</b>. My deep interest in <b>Data Science</b> has led me to embark on this journey, where I am immersing myself in the intricacies of <b>statistical analysis, data visualization, Machine Learning/AI, and predictive modeling</b>.
