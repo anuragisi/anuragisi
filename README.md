@@ -5,9 +5,9 @@
 Having successfully completed my graduation in <b>Computer Science and Engineering (CSE)</b>, I developed a strong foundation in programming, algorithms, and problem-solving. Further enhancing my skill set, I also attained a PGDM in Development Management, which provided me with a holistic understanding of managing projects and teams effectively.
 </p-->
 <p>
-Currently, I am working remotely as a Consultant (Quantitative Researcher) for a US-based Quant Finance startup, co-founded by industry veterans with 80+ patents, 1500+ citations, and leadership backgrounds at Microsoft, Skyflow, Fujitsu, Morgan Stanley, Deutsche Bank, and Goldman Sachs. The firm is pioneering cutting-edge solutions at the intersection of AI and Quantitative Finance, focusing on systematic trading strategies and scalable AI infrastructure.
-
 With 1.5+ years of hands-on experience in the data domain, I’ve worked across diverse industries, addressing complex business challenges and delivering impact-oriented, data-driven solutions to enhance decision-making processes.
+  
+Currently, I am working remotely as a Consultant (Quantitative Researcher) for a US-based Quant Finance startup, co-founded by industry veterans with 80+ patents, 1500+ citations, and leadership backgrounds at Microsoft, Skyflow, Fujitsu, Morgan Stanley, Deutsche Bank, and Goldman Sachs. The firm is pioneering cutting-edge solutions at the intersection of AI and Quantitative Finance, focusing on systematic trading strategies and scalable AI infrastructure.
 
 Previously, I completed a paid Data Analyst internship at a startup BVPL, Gurugram, where I was assigned to a live client project from day one. Despite a steep learning curve, our small team overcame challenges and delivered all milestones ahead of schedule, avoiding any project penalties from the client. My contributions towards building scalable data pipelines, conducting rigorous Data Quality validations (manual and automated) testcases, and ensuring high-precision Data delivery along with the development of robust web crawlers/scrapers for over 200+ data schemas/fields, mainly focusing on (Product Description Pages (PDPs), reviews, and search crawlers). In addition, I contributed to designing data acquisition infrastructure for public domain scraping, serving a major Israeli client, Bright Data — a leader in web data solutions.
 
