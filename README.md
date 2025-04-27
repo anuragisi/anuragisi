@@ -5,7 +5,7 @@
 Having successfully completed my graduation in <b>Computer Science and Engineering (CSE)</b>, I developed a strong foundation in programming, algorithms, and problem-solving. Further enhancing my skill set, I also attained a PGDM in Development Management, which provided me with a holistic understanding of managing projects and teams effectively.
 </p-->
 <p>
-With 1.5+ years of hands-on experience in the data domain, I’ve worked across diverse industries, addressing complex business challenges and delivering impact-oriented, data-driven solutions to enhance decision-making processes.
+With 2+ years of hands-on experience in the data domain, I’ve worked across diverse industries, addressing complex business challenges and delivering impact-oriented, data-driven solutions to enhance decision-making processes.
   
 Currently, I am working remotely as a Consultant (Quantitative Researcher) for a US-based Quant Finance startup, co-founded by industry veterans with 80+ patents, 1500+ citations, and leadership backgrounds at Microsoft, Skyflow, Fujitsu, Morgan Stanley, Deutsche Bank, and Goldman Sachs. The firm is pioneering cutting-edge solutions at the intersection of AI and Quantitative Finance, focusing on systematic trading strategies and scalable AI infrastructure.
 
